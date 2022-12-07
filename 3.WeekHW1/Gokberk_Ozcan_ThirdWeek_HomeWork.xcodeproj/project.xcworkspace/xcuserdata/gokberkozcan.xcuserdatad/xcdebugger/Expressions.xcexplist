@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.salaryPassed(data:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "incomingEmployeeSalary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.passData(data:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "incomingEmployeeDetails">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.paySalaryButton(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "budget">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EmployeeListViewController.viewDidLoad():EmployeeListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "filteredData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddEmployeeViewController.addEmployee():AddEmployeeViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

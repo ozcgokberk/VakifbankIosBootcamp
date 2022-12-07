@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "EpisodesViewController.tableView(_:didSelectRowAt:):EpisodesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "castArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in QuotesViewController.viewDidLoad():QuotesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "quotes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QuotesViewController.init(coder:):QuotesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "quotesAuthor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Client.getCast(completion:):Client.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reponse.result">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NotesViewController.tableView(_:didSelectRowAt:):NotesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "v">
+            </PersistentString>
+            <PersistentString
+               value = "notes[indexPath.row].id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddOrUpdateVC.doneButtonPressed(_:):AddOrUpdateVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "seasonTxtField.text">
+            </PersistentString>
+            <PersistentString
+               value = "episodeTxtField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #4 in closure #1 in static Client.taskForGETRequest&lt;&#x3c4;_0_0&gt;(url:responseType:completion:):Client.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CastListViewController.prepare(for:sender:):CastListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cast">
+            </PersistentString>
+            <PersistentString
+               value = "cast?[1].name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Client.taskForGETRequest&lt;&#x3c4;_0_0&gt;(url:responseType:completion:):Client.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CastListViewController.viewDidLoad():CastListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cast">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static Client.taskForGETRequest&lt;&#x3c4;_0_0&gt;(url:responseType:completion:):Client.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

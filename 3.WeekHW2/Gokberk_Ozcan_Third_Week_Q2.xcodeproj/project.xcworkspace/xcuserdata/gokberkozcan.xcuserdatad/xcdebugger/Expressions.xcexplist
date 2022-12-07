@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AnimalViewController.pickerView(_:didSelectRow:inComponent:):AnimalViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "waterTank">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ZooViewController.prepare(for:sender:):ZooViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "animalArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EmloyeeViewController.addEmloyeePressed(_:):EmloyeeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "unownedAnimalArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListOfZooContentViewController.forloop():ListOfZooContentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "keeperName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ZooViewController.setAnimalArray(data:):ZooViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "unownedArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AnimalViewController.abc():AnimalViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "unownedArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AnimalViewController.addButtonPressed(_:):AnimalViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "unownedArray">
+            </PersistentString>
+            <PersistentString
+               value = "arr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EmloyeeViewController.addEmployee():EmloyeeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "animal.keeper">
+            </PersistentString>
+            <PersistentString
+               value = "unownedAnimalArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EmloyeeViewController.viewDidLoad():EmloyeeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "unownedAnimalArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ZooViewController.passKeeperAnimals(data:):ZooViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "EmloyeeViewController.unownedAnimal():EmloyeeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "unownedAnimalArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
